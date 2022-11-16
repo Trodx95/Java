@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+C:\Users\trodx\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1545981776.index
+\FruityLoops-1\src\main\java
+C:\Users\trodx\OneDrive\Documents\JAVA_STACK\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\330549711.index
+\DojosNinjas\src\main\java
+C:\Users\trodx\OneDrive\Documents\JAVA_STACK\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3096144320.index
+\SaveTravels-1\src\main\java
+C:\Users\trodx\OneDrive\Documents\JAVA_STACK\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2427630260.index
+\Books\src\main\java
+C:\Users\trodx\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2862930311.index
+\OmikujiForm-2\src\main\java
+C:\Users\trodx\OneDrive\Documents\JAVA_STACK\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1774745859.index
+\FruityLoops-2\src\main\java
+C:\Users\trodx\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1774745859.index
+\FruityLoops-2\src\main\java
+C:\Users\trodx\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2672390100.index
+\OmikujiForm-1\src\main\java
+C:\Users\trodx\OneDrive\Documents\JAVA_STACK\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2862930311.index
+\OmikujiForm-2\src\main\java
+C:\Users\trodx\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3950395849.index
+\helloWorld\src\main\java
+C:\Users\trodx\OneDrive\Documents\JAVA_STACK\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3474760154.index
+\DojosNinjas-22\src\main\java
